@@ -1,4 +1,4 @@
-# SANAD - SFDA Cosmetics Compliance Chatbot
+# SANAD - Cosmetics Compliance Chatbot
 
 An intelligent Arabic chatbot for querying Saudi Food and Drug Authority (SFDA) cosmetics regulations and banned substances using Retrieval Augmented Generation (RAG).
 
