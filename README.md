@@ -306,13 +306,6 @@ DEBUG=True python app_gradio_improved.py
 - ⚠️ Add rate limiting for public deployment
 - ⚠️ Sanitize user inputs
 
-## License
-
-[Specify your license here]
-
-## Contributors
-
-[List contributors here]
 
 ## Support
 
